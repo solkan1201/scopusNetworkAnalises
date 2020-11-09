@@ -1,4 +1,4 @@
-# scopusNetworkAnalises
+# Analises de articulos na base de Scopus a traves de Redes complexas
 
 * Topicos:
   * + coleta dos dados na base de scopus
